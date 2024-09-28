@@ -1,25 +1,3 @@
-''' TO DO
-1) update the frequency you can encounter certain events (shop more rare fx)
-3) update the map to show symbols symbolizing what events occured to the player
-4) refactor text to make it look better
-5) add more random events
-6) GIANT EVENT: når treffer en kroppsdel -> skaden går opp, og accuracy ned (begge går ned as of now)
-6) add an exception to the 'entydighet', program fails if there is a spelling error, for instance 'wsait' instead of 'waist'
-7) fix the staff stuff, or just remove it completely
-8) gjøre noe med Totems?
-9) hindre at EIDE attributes på våpen dukker opp i shoppen, man kan ikke kjøpe 2 av samme altså
-10) Implement a 'previous direction: ' do show where you last went?
-
-# check if works: 
-
-Bow damage
-
-
-IDEA: 
-Collecting runes (from totem maybe?), 3 runes in total? 
-Crafting station to craft staffs
-'''
-
 import os # clearCOnsole
 from colorama import Fore
 import random as r
