@@ -23,7 +23,7 @@ Crafting station to craft staffs
 import os # clearCOnsole
 from colorama import Fore
 import random as r
-from zorg_imports import bossnames, items, opposite_directions, upgradesToWeapons, biome_names, staff_names
+from zork_imports import bossnames, items, opposite_directions, upgradesToWeapons, biome_names, staff_names
 import tkinter as tk
 from tkinter import colorchooser
 import math
