@@ -12,7 +12,7 @@ When met with an event where you type in text, or use items, buy items etc... it
 Each step triggers a random event
 Defeat random events by various means:
 
-🏆 Boss fights - using your sword or bow, with varying accuracy and damage. Choose wisely.
+🏆 Boss fights 
 🛒 Shops  
 💰 Free coins
 🕳️ Pitfall traps
@@ -22,11 +22,11 @@ Defeat random events by various means:
 Every 10 steps/turns: Guaranteed GIANT EVENT (boss event)
 Every 5 turns: Difficulty increases
 
-🎯 Goal = Survive as many steps/turns as possible! RECORD: 25
+🎯 Goal             = Survive as many steps/turns as possible! RECORD: 25
   
-⚔️ Sword upgrades = ⚔️ Lethal blade, ⚡ Stun adapter,   🩸 Bleed effect,   🗡️ Extra sharp
+⚔️ Sword upgrades   = ⚔️ Lethal blade, ⚡ Stun adapter,   🩸 Bleed effect,   🗡️ Extra sharp
 
-🎒 Items =   💪 Increased damage potion,   👁️ Clairvoyance potion,   🍀 Luck potion,   ❤️ Healing potion,   💊 Antidote
+🎒 Items            =   💪 Increased damage potion,   👁️ Clairvoyance potion,   🍀 Luck potion,   ❤️ Healing potion,   💊 Antidote
 
 
 ** ⚔️ Combat ** 
